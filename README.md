@@ -1,4 +1,6 @@
 [![Build Status](https://dev.azure.com/adgolox/DevopsDiego/_apis/build/status%2FEpix1080.pipelines-java?branchName=main)](https://dev.azure.com/adgolox/DevopsDiego/_build/latest?definitionId=1&branchName=main)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
